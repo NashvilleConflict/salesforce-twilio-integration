@@ -1,5 +1,5 @@
-# Naviagtion
-salesforce > apex classes > 
+# Navigation
+salesforce > apex classes >
 
 - setup (top menu right side)
 - type apex classes in left side bar search bar (directly below the icons)
@@ -8,4 +8,4 @@ salesforce > apex classes >
   - 3 messages
     - SendTextMessage (the other 2 are tests)
   - VolunteerJobScheduler
-  - VolunterBtach
+  - VolunterBtach (yes that's the current spelling)
